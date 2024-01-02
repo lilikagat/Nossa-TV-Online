@@ -1,2 +1,2 @@
-# https://lilikagat.github.io/Nossa-TV-Online/
+# lilikagat.github.io/Nossa-TV-Online
 Site Para Assistir TV Online Grátis
